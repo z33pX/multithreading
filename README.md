@@ -4,6 +4,8 @@ Simple template &amp; example: Inheritance, Callback, Queue, Shutdown, Join, Dea
 ```
 # -*- coding: utf-8 -*-
 
+from __future__ import print_function
+
 import time
 import threading
 import queue
